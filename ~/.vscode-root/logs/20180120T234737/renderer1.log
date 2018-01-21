@@ -1,0 +1,16 @@
+[2018-01-20 23:59:35.139] [renderer1] [error] connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock: Error: connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+[2018-01-20 23:59:43.535] [renderer1] [error] connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock: Error: connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1097:14) (2 errors in total)
+[2018-01-21 00:00:20.743] [renderer1] [error] connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock: Error: connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+[2018-01-21 00:00:20.816] [renderer1] [error] connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock: Error: connect ENOENT /home/thaigofreitas/rails/OneBitCode/nosso_amigo_secreto/~/.vscode-root/1.19.2-shared.sock
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1097:14) (2 errors in total)
